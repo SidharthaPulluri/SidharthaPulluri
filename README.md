@@ -16,7 +16,6 @@ I enjoy breaking down complex problems and building practical, scalable solution
 ## 🌱 Currently Learning
 - Advanced Machine Learning & NLP  
 - Scalable ML systems and deployment  
-- Web technologies (HTML, CSS, JavaScript) for ML interfaces
 
 ---
 
